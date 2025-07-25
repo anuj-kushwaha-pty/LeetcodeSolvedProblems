@@ -14,7 +14,7 @@ Given an array nums of size n, return the majority element. The majority element
 - 1 <= n <= 5 * 104
 - -109 <= nums[i] <= 109
 
-- 
+
 ## Examples
 
 ### Example 1
