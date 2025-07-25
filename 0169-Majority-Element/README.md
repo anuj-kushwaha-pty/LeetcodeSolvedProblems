@@ -1,5 +1,5 @@
 
-# Majority Element(https://leetcode.com/problems/majority-element/)
+# [Majority Element](https://leetcode.com/problems/majority-element/)
 
 
 
