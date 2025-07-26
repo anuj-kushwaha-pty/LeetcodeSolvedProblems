@@ -4,7 +4,7 @@ public:
         int ans=0;
 
         for(int val:nums){
-            ans^=val;//bitwise XOR
+            ans^=val;// Bitwise XOR
 
         }
         return ans;
