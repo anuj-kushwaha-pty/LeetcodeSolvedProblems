@@ -1,6 +1,5 @@
-# Unique Number of Occurrences
+# [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 
-**Problem:** [Unique Number of Occurrences – LeetCode(https://leetcode.com/problems/unique-number-of-occurrences/)
 
 ### Description
 
