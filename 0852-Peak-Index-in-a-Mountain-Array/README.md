@@ -15,7 +15,7 @@ Your task is to solve it in O(log(n)) time complexity.
 - 3 <= arr.length <= 105
 - 0 <= arr[i] <= 106
 - arr is guaranteed to be a mountain array.
-- 
+  
 ## Examples
 
 ### Example 1
