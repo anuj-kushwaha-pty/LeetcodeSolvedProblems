@@ -1,6 +1,18 @@
 class Solution {
 public:
     int numberOfMatches(int n) {
-        return n-1; // Because winner can be only 1 and to get 1 winner we need (n-1) matches
+        int matches = 0;
+
+        while(n>1){ // even teams
+            if(n%2 == 0){
+                matches += n/2;
+                n = n/2;
+            }
+            else{ // odd teams
+                matches += (n-1)/2;
+                n= (n-1)/2+1;
+            }
+        }
+        return matches;
     }
 };
