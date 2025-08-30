@@ -27,6 +27,7 @@ Note:
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/4671a341-84f4-42bc-a385-781afc2c8a1a" />
 
 Input: board = 
+
 [["5","3",".",".","7",".",".",".","."]
 
 ,["6",".",".","1","9","5",".",".","."]
